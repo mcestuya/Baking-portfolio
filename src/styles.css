@@ -1,6 +1,6 @@
 :root {
-  --primary-color: #6c63ff;
-  --secondary-color: #f5f2fe;
+  --primary-color: #F0A446;
+  --secondary-color: #FDDACE;
   --box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
 }
 
@@ -9,9 +9,13 @@ body {
   max-width: 800px;
 }
 
+.CBLogo {
+  img
+}
+
 h1,
 h2,
-h3 {
+h4 {
   text-align: center;
   margin: 0;
 }
